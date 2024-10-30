@@ -18,11 +18,13 @@ My research interests focus on the biological foundations of visual perception a
 
 ### Contact Information
 
-- [e-mail](mailto:hl4693@nyu.edu)
-- [ResearchGate](https://www.researchgate.net/profile/Hyun-Seo-Lee-3)
-- [LinkedIn](https://www.linkedin.com/in/hannah-lee-742711287/)
-- [GitHub](https://github.com/HANNAH-LEE-LY)
-- [Google Scholar](https://scholar.google.com/citations?hl=en&user=nXO2LRAAAAAJ)
+- 📧 [Email](mailto:hl4693@nyu.edu)
+- <i class="fab fa-researchgate"></i> [ResearchGate](https://www.researchgate.net/profile/Hyun-Seo-Lee-3)
+- <i class="fab fa-twitter"></i> [Twitter](#)
+- <i class="fab fa-linkedin"></i> [LinkedIn](https://www.linkedin.com/in/hannah-lee-742711287/)
+- <i class="fab fa-github"></i> [GitHub](https://github.com/HANNAH-LEE-LY)
+- <i class="fab fa-google"></i> [Google Scholar](https://scholar.google.com/citations?hl=en&user=nXO2LRAAAAAJ)
+- <i class="fab fa-orcid"></i> [ORCID](#)
 
 ---
 
