@@ -1,8 +1,11 @@
 theme: jekyll-theme-minimal
-plugins:
-  - jekyll-fontawesome
 markdown: kramdown
 kramdown:
   syntax_highlighter_opts:
     block:
       line_numbers: false
+plugins:
+  - jekyll-fontawesome
+  - jekyll-seo-tag
+
+remote_theme: "pages-themes/minimal@v0.2.0" # or replace with your theme if different
