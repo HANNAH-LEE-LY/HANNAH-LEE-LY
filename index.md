@@ -10,7 +10,7 @@ I pay attention to attention, mostly being the most distracted person in one sit
 
 ## About Me
 
-I am currently a research assistant at NYU Langone and Columbia NYSPI, where I work on projects exploring the neural basis of visual perception and attention.
+I am currently a research assistant at NYU Langone and Columbia NYSPI, where I work on projects exploring the neural basis of visual perception and perceptual decision.
 
 ### Research Interests
 
@@ -18,7 +18,7 @@ My research interests focus on the biological foundations of visual perception a
 
 ### Contact Information
 
-- **Email**: [hl4693@nyu.edu](mailto:hl4693@nyu.edu)
+- [hl4693@nyu.edu](mailto:hl4693@nyu.edu)
 - [ResearchGate](https://www.researchgate.net/profile/Hyun-Seo-Lee-3)
 - [LinkedIn](https://www.linkedin.com/in/hannah-lee-742711287/)
 - [GitHub](https://github.com/HANNAH-LEE-LY)
