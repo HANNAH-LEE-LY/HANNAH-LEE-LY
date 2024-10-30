@@ -21,9 +21,8 @@ My research interests focus on the biological foundations of visual perception a
 - <i class="fab fa-researchgate"></i> [ResearchGate](https://www.researchgate.net/profile/Hyun-Seo-Lee-3)
 - <i class="fab fa-twitter"></i> [Twitter](https://twitter.com/yourusername)
 - <i class="fab fa-linkedin"></i> [LinkedIn](https://www.linkedin.com/in/hannah-lee-742711287/)
-- <i class="fab fa-github"></i> [GitHub](https://github.com/HANNAH-LEE-LY)
+- <i class="fa-brands fa-github"></i> [GitHub](https://github.com/HANNAH-LEE-LY)
 - <i class="fas fa-graduation-cap"></i> [Google Scholar](https://scholar.google.com/citations?hl=en&user=nXO2LRAAAAAJ)
-- <i class="fab fa-orcid"></i> [ORCID](https://orcid.org/your-orcid-id)
 
 
 
